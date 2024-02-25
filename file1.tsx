@@ -1,0 +1,17 @@
+import React from 'react';
+
+const file1 = () => {
+	// lorem
+	return (
+		<div>
+			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis molestiae expedita cum, facere pariatur ut. Similique fugit enim quod
+			porro cum? Iste, pariatur nostrum sunt adipisci odit placeat possimus aspernatur sequi labore voluptates optio vitae amet veritatis
+			molestiae nesciunt ut aliquam accusantium. Enim nesciunt dolores quae saepe. Suscipit esse accusantium, repudiandae deleniti enim
+			doloribus illo temporibus eligendi distinctio odio magni! Porro sequi voluptatum tempore suscipit minima provident dolore doloremque, ex
+			impedit et optio ipsam assumenda laborum praesentium ullam sit in nisi. Officia nulla repudiandae optio harum itaque vitae omnis vero
+			repellat, ullam dolorem culpa dignissimos inventore natus animi ipsa non! Quisquam, quos. Quisquam, quos. Quisquam, quos. Quisquam, quos.
+		</div>
+	);
+};
+
+export default file1;
