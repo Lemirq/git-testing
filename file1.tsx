@@ -71,6 +71,10 @@ const file1 = () => {
 				<li>balls</li>
 				<li>balls</li>
 			</ul>
+			<p>
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus illo cupiditate optio praesentium rerum officia eligendi
+				quisquam amet ad, qui impedit aperiam quidem. Iusto debitis magnam exercitationem, sit eligendi architecto!
+			</p>
 		</div>
 	);
 };
